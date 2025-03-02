@@ -47,5 +47,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/joana-elias-oliveira/MarcosFuzetto/output/snake.svg" alt="Snake animation" />
