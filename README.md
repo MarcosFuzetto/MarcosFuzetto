@@ -1,5 +1,5 @@
 <h2 align="left">Hi 🌸! My name is Marcos, and I'm a developer from Brazil. </h2>
-
+<img height="62px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg](https://media.licdn.com/dms/image/v2/D4D16AQEmFRxp7gqXPg/profile-displaybackgroundimage-shrink_350_1400/B4DZWNmlbgH4Ac-/0/1741837457957?e=1779926400&v=beta&t=m54NRE9-xZRbTWdc5DmfGD1Cc0L6rG3-RXgNIP7xY1o)" /> &nbsp;&nbsp;
 
 ###
 
